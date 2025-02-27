@@ -1,3 +1,4 @@
+from banco_usuarios_cadastrados import *
 class Cadastro:
     def __init__(self, nome : str, senha : str, cpf : int, data_nascimento : int, local_residencia : str, num_telefone : int, email : str):
         self.__nome = nome
@@ -25,4 +26,3 @@ class Cadastro:
         return self.__email
     
     # Métodos
-    
