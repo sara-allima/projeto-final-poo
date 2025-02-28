@@ -30,6 +30,6 @@ class Cadastro:
         email = self.get_email()
         senha = self.get_senha()
         if email in usuarios_cadastrados:
-            print('Este e-mail já foi cadastrado.')
+            print('Este e-mail já foi cadastrado. Tente fazer o login.')
         else:
-            
+            usuarios_cadastrados[email] = senha

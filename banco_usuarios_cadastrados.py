@@ -1,1 +1,1 @@
-usuarios_cadastrados = {}
+usuarios_cadastrados = {} #chave: email, valor: senha
