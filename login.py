@@ -1,5 +1,5 @@
 class Login:
-    def __init__(self, usuario, senha):
+    def __init__(self, usuario : str, senha : str):
         self.__usuario = usuario
         self.__senha = senha
 
@@ -9,7 +9,7 @@ class Login:
     def get_senha(self):
         return self.__senha
 
-    def validar_usuario(self, usuario, senha):
+    def validar_usuario(self, usuario, senha): #
         usuario_para_validar = self.get_usuario
         senha_para_validar = self.get_senha
         if usuario == usuario_para_validar and senha == senha_para_validar:
