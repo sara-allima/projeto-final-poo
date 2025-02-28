@@ -26,3 +26,10 @@ class Cadastro:
         return self.__email
     
     # Métodos
+    def cadastrar_usuario(self):
+        email = self.get_email()
+        senha = self.get_senha()
+        if email in usuarios_cadastrados:
+            print('Este e-mail já foi cadastrado.')
+        else:
+            
