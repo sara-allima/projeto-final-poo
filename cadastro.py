@@ -1,4 +1,4 @@
-from banco_usuarios_cadastrados import *
+from carregar_e_salvar_usuarios import *
 class Cadastro:
     def __init__(self, nome : str, senha : str, cpf : int, data_nascimento : int, local_residencia : str, num_telefone : int, email : str):
         self.__nome = nome
@@ -33,3 +33,4 @@ class Cadastro:
             print('Este e-mail já foi cadastrado. Tente fazer o login.')
         else:
             usuarios_cadastrados[email] = senha
+            salvar_usuarios(usuarios_cadastrados)

@@ -1,1 +1,0 @@
-usuarios_cadastrados = {} #chave: email, valor: senha
