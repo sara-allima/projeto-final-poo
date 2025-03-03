@@ -10,7 +10,7 @@ def carregar_usuarios():
             return json.load(f)
     except FileNotFoundError:
         return {} # Lista vazia é retornada se o arquivo não for encontrado
-    except json.JSONDecodeError:
+    except json.JSONDecodeError: # Lista vazia também vai ser adicionada no arquivo se não tiver sido inicializada
         return {}
 
     
