@@ -3,7 +3,7 @@ from cadastro import *
 from login import *
 
 # Funções
-def coletar_informacoes_cadastro():
+def coletar_informacoes_cadastro_criar_usuario():
     nome = str(input('Digite seu nome: '))
     senha = str(input('Digite sua senha: ')) # Para criar o login, o usuário precisa de uma senha, que será guardada nessa variável.[...]
     confirm_senha = str(input('Digite a senha novamente: ')) #[...] Está segunda variável pede que o usuário repita a senha que ele acabou de criar. Essa confirmação é necessária para que o usuário tenha certeza que está colocando a senha correta
@@ -22,7 +22,7 @@ def coletar_informacoes_cadastro():
     
     novo_usuario = Cadastro(nome, senha, cpf, data_nascimento, local_residencia, num_telefone, email) # Um novo usuário é criado com as informações concedidas
     novo_usuario.cadastrar_usuario() # Usuário é cadastrado se tudo estiver dentro dos conformes (Verificar arquivo "cadastro.py" para entender melhor os requisitos de cadastro)
-def coletar_informacoes_login():
+def coletar_informacoes_login_verificar_usuario():
     email = pedir_email()
     senha = pedir_senha()
     usuario = Login(email, senha)
@@ -39,9 +39,9 @@ def mostrar_interface():
         
         match opcao:
             case 1:
-                coletar_informacoes_cadastro() # Está função irá coletar todos os dados necessários para fazer o cadastro de um novo usuário
+                coletar_informacoes_cadastro_criar_usuario() # Está função irá coletar todos os dados necessários para fazer o cadastro de um novo usuário
             case 2:
-                coletar_informacoes_login() # Está função irá coletar todos os dados necessários para realizar o login do usuário
+                coletar_informacoes_login_verificar_usuario() # Está função irá coletar todos os dados necessários para realizar o login do usuário
                 # Ideia: criar nova interface para ser chamada somente quando o login for True??
             case 3: #opção para sair do programa
                 print('Saindo...')
