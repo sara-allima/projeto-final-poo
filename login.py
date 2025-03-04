@@ -8,15 +8,17 @@ def pedir_senha():
     senha = str(input('Digite sua senha: '))
     return senha
 
-
 def condicoes_de_validacao(email, senha):
     if email in usuarios_cadastrados:
         if senha == usuarios_cadastrados[email]:
             print('Usuário logado com sucesso!')
+            return True
         else:
             print('Senha incorreta! Tente novamente.')
+            return False
     else:
         print(f'E-mail inválido!\nTente se cadastrar')
+        return False
 
 # Classe para fazer login
 class Login:
