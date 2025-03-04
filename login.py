@@ -1,18 +1,36 @@
+from carregar_e_salvar_usuarios import *
+
+# Funções 
+def pedir_email():
+    email = str(input('Digite seu email: '))
+    return email
+def pedir_senha():
+    senha = str(input('Digite sua senha: '))
+    return senha
+
+
+def condicoes_de_validacao(email, senha):
+    if email in usuarios_cadastrados:
+        if senha == usuarios_cadastrados[email]:
+            print('Usuário logado com sucesso!')
+        else:
+            print('Senha incorreta! Tente novamente.')
+    else:
+        print(f'E-mail inválido!\nTente se cadastrar')
+
+# Classe para fazer login
 class Login:
-    def __init__(self, usuario : str, senha : str):
-        self.__usuario = usuario
+    def __init__(self, email : str, senha : str):
+        self.__email = email
         self.__senha = senha
 
     # Getters
-    def get_usuario(self):
-        return self.__usuario
+    def get_email(self):
+        return self.__email
     def get_senha(self):
         return self.__senha
 
-    def validar_usuario(self, usuario, senha): #
-        usuario_para_validar = self.get_usuario
-        senha_para_validar = self.get_senha
-        if usuario == usuario_para_validar and senha == senha_para_validar:
-            return True
-        else:
-            return False
+    def validar_usuario(self):
+        email_para_validar = self.get_email()
+        senha_para_validar = self.get_senha()
+        condicoes_de_validacao(email_para_validar, senha_para_validar)
