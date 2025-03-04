@@ -34,3 +34,4 @@ class Cadastro:
         else:
             usuarios_cadastrados[email] = senha
             salvar_usuarios(usuarios_cadastrados)
+            print('Usuário Cadastrado com Sucesso!')
