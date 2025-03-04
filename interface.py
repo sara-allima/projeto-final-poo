@@ -26,7 +26,7 @@ def coletar_informacoes_login_verificar_usuario():
     email = pedir_email() # Função do arquivo "login" que pede o email do usuário
     senha = pedir_senha() # Função do arquivo "login" que pede senha do usuário
     usuario = Login(email, senha) # Cria o login para conseguirmos acessar seus métodos
-    usuario.validar_usuario() # Método que verifica se o usuário já está cadastrado e se as credenciais que foram fornecidas por ele (email e senha) condizem com alguma do banco de dados
+    return usuario.validar_usuario() # Método que verifica se o usuário já está cadastrado e se as credenciais que foram fornecidas por ele (email e senha) condizem com alguma do banco de dados
 
 def mostrar_interface():
     controle = True # Variável de controle para mostrar a interface de opções do usuário
@@ -41,8 +41,9 @@ def mostrar_interface():
             case 1:
                 coletar_informacoes_cadastro_criar_usuario() # Está função irá coletar todos os dados necessários para fazer o cadastro de um novo usuário
             case 2:
-                coletar_informacoes_login_verificar_usuario() # Está função irá coletar todos os dados necessários para realizar o login do usuário, além de verificar se o login pode ser efetuado ou não
-                # Ideia: criar nova interface para ser chamada somente quando o login for True??
+                if coletar_informacoes_login_verificar_usuario(): # Está função irá coletar todos os dados necessários para realizar o login do usuário, além de verificar se o login pode ser efetuado ou não
+                    # Ideia: criar nova interface para ser chamada somente quando o login for True??
+                    print('Logou veyyr') # interface vai aqui
             case 3: #opção para sair do programa
                 print('Saindo...')
                 sleep(1)

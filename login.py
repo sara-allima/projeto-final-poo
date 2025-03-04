@@ -35,4 +35,4 @@ class Login:
     def validar_usuario(self):
         email_para_validar = self.get_email()
         senha_para_validar = self.get_senha()
-        condicoes_de_validacao(email_para_validar, senha_para_validar)
+        return condicoes_de_validacao(email_para_validar, senha_para_validar)
