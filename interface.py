@@ -23,10 +23,10 @@ def coletar_informacoes_cadastro_criar_usuario():
     novo_usuario = Cadastro(nome, senha, cpf, data_nascimento, local_residencia, num_telefone, email) # Um novo usuário é criado com as informações concedidas
     novo_usuario.cadastrar_usuario() # Usuário é cadastrado se tudo estiver dentro dos conformes (Verificar arquivo "cadastro.py" para entender melhor os requisitos de cadastro)
 def coletar_informacoes_login_verificar_usuario():
-    email = pedir_email()
-    senha = pedir_senha()
-    usuario = Login(email, senha)
-    usuario.validar_usuario()
+    email = pedir_email() # Função do arquivo "login" que pede o email do usuário
+    senha = pedir_senha() # Função do arquivo "login" que pede senha do usuário
+    usuario = Login(email, senha) # Cria o login para conseguirmos acessar seus métodos
+    usuario.validar_usuario() # Método que verifica se o usuário já está cadastrado e se as credenciais que foram fornecidas por ele (email e senha) condizem com alguma do banco de dados
 
 def mostrar_interface():
     controle = True # Variável de controle para mostrar a interface de opções do usuário
@@ -41,7 +41,7 @@ def mostrar_interface():
             case 1:
                 coletar_informacoes_cadastro_criar_usuario() # Está função irá coletar todos os dados necessários para fazer o cadastro de um novo usuário
             case 2:
-                coletar_informacoes_login_verificar_usuario() # Está função irá coletar todos os dados necessários para realizar o login do usuário
+                coletar_informacoes_login_verificar_usuario() # Está função irá coletar todos os dados necessários para realizar o login do usuário, além de verificar se o login pode ser efetuado ou não
                 # Ideia: criar nova interface para ser chamada somente quando o login for True??
             case 3: #opção para sair do programa
                 print('Saindo...')
