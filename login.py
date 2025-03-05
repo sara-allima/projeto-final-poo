@@ -10,8 +10,8 @@ class Login:
         return self.__senha
 
     def validar_usuario(self, usuario, senha): #
-        usuario_para_validar = self.get_usuario
-        senha_para_validar = self.get_senha
+        usuario_para_validar = self.get_usuario()
+        senha_para_validar = self.get_senha()
         if usuario == usuario_para_validar and senha == senha_para_validar:
             return True
         else:

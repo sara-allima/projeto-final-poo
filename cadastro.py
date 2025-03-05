@@ -1,5 +1,5 @@
 class Cadastro:
-    def __init__(self, nome : str, senha : str, cpf : int, data_nascimento : int, local_residencia : str, num_telefone : int, email : str):
+    def __init__(self, nome : str, senha : str, cpf : int, data_nascimento : str, local_residencia : str, num_telefone : int, email : str):
         self.__nome = nome
         self.__senha = senha
         self.__cpf = cpf
@@ -25,4 +25,3 @@ class Cadastro:
         return self.__email
     
     # Métodos
-    
