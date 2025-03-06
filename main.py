@@ -162,7 +162,7 @@ def menu_principal():
         elif opcao == "5":
             comparar_compras()
         elif opcao == "6":
-            adicionar_nota_manual()  # Chama a função importada de nota_fiscal.py
+            adicionar_nota_manual()
         elif opcao == "7":
             print("Saindo... Até logo!")
             break
