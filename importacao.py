@@ -1,6 +1,6 @@
 import json
 
-def importar_nota_json(arquivo_importado, arquivo_destino="notas_fiscais.json"):
+def importar_nota_json(arquivo_importado, arquivo_destino="notas fiscais/notas_fiscais.json"):
     """ Lê uma nota fiscal de um arquivo JSON e a salva no banco de notas fiscais, se não for duplicada """
     try:
         # Lendo a nota fiscal do arquivo importado

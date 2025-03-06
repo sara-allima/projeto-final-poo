@@ -1,0 +1,11 @@
+[
+    {
+        "nome": "Paulo Kennedy",
+        "senha": "Paulo123",
+        "cpf": "01254897623",
+        "data_nascimento": "01/01/2000",
+        "local_residencia": "Pau dos Ferros",
+        "num_telefone": "84981325698",
+        "email": "paulo.kennedy@gmail.com"
+    }
+]

@@ -41,7 +41,7 @@ def importar_nota():
     importacao.importar_nota_json(arquivo_importado)
     print("Nota fiscal importada com sucesso!\n")
 
-def carregar_compras(arquivo="notas_fiscais.json"):
+def carregar_compras(arquivo="G:/Documentos/IFRN/2º Semestre/POO/Projeto POO/projeto-final-poo/notas fiscais/notas_fiscais.json/"):
     """Carregar as compras do arquivo JSON."""
     try:
         with open(arquivo, "r", encoding="utf-8") as f:
@@ -135,40 +135,50 @@ def comparar_compras():
         print(f"Total de compras no ano atual: R${total_ano_atual:.2f}")
         print(f"Total de compras no ano anterior: R${total_ano_anterior:.2f}\n")
 
+def menu_logado():
+    while True:
+        print("1. Importar Nota Fiscal")
+        print("2. Consultar Compras por Datas")
+        print("3. Comparar Compras")
+        print("4. Sair")
+
+        opcao = int(input("Escolha uma opção: "))
+
+        match opcao:
+            case 1:
+                importar_nota()
+            case 2:
+                consultar_compras_por_data()
+            case 3:
+                comparar_compras()
+            case 4:
+                print("Saindo...")
+                break
+            case _:
+                print("Opção Inválida!")
 
 def menu_principal():
     while True:
         print("1. Realizar Cadastro")
         print("2. Realizar Login")
-        print("3. Importar Nota Fiscal")
-        print("4. Consultar Compras por Data")
-        print("5. Comparar Compras de Períodos")
-        print("6. Adicionar Nota Fiscal Manualmente")
-        print("7. Sair")
+        print("3. Sair")
         
-        opcao = input("Escolha uma opção: ")
+        opcao = int(input("Escolha uma opção: "))
 
-        if opcao == "1":
-            cadastrar_usuario()
-        elif opcao == "2":
-            if realizar_login():
-                print("Login realizado com sucesso!\n")
-            else:
-                print("Falha no login.\n")
-        elif opcao == "3":
-            importar_nota()
-        elif opcao == "4":
-            consultar_compras_por_data()
-        elif opcao == "5":
-            comparar_compras()
-        elif opcao == "6":
-            adicionar_nota_manual()
-        elif opcao == "7":
-            print("Saindo... Até logo!")
-            break
-        else:
-            print("Opção inválida. Tente novamente.\n")
+        match opcao:
+            case 1:
+                cadastrar_usuario() # Esta função irá coletar todos os dados necessários para fazer o cadastro de um novo usuário
+            case 2:
+                if realizar_login(): # Está função irá coletar todos os dados necessários para realizar o login do usuário, além de verificar se o login pode ser efetuado ou não
+                    # Ideia: criar nova interface para ser chamada somente quando o login for True??
+                    print('Login realizado com sucesso!')
+                    print("Bem-Vindo!\nEscolha uma opção\n")
+                    menu_logado() # interface vai aqui
+            case 3: # Opção para sair do programa
+                print('Saindo...')
+                break
+            case _:
+                print('Opção Inválida!')
 
 if __name__ == "__main__":
     menu_principal()
-

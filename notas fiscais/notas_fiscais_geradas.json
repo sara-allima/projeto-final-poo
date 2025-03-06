@@ -1,0 +1,2267 @@
+[
+    {
+        "data_emissao": "09/02/2025",
+        "hora_emissao": "13:13",
+        "numero": 795815,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto I",
+                "valor": 132.54,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto I",
+                "valor": 448.75,
+                "quantidade": 6
+            }
+        ]
+    },
+    {
+        "data_emissao": "30/01/2025",
+        "hora_emissao": "04:49",
+        "numero": 760920,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 102.8,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto H",
+                "valor": 39.04,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto A",
+                "valor": 289.09,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto E",
+                "valor": 211.84,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "28/02/2025",
+        "hora_emissao": "18:39",
+        "numero": 554096,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto D",
+                "valor": 439.17,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto J",
+                "valor": 466.69,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto D",
+                "valor": 253.66,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto I",
+                "valor": 402.44,
+                "quantidade": 7
+            }
+        ]
+    },
+    {
+        "data_emissao": "23/02/2025",
+        "hora_emissao": "18:37",
+        "numero": 344265,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 74.14,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto H",
+                "valor": 466.86,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "14/05/2024",
+        "hora_emissao": "00:36",
+        "numero": 822695,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto I",
+                "valor": 344.75,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto J",
+                "valor": 425.58,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto F",
+                "valor": 120.17,
+                "quantidade": 2
+            }
+        ]
+    },
+    {
+        "data_emissao": "12/04/2024",
+        "hora_emissao": "17:26",
+        "numero": 802850,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 123.81,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto B",
+                "valor": 273.91,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto F",
+                "valor": 263.27,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto A",
+                "valor": 368.67,
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "data_emissao": "14/08/2024",
+        "hora_emissao": "03:43",
+        "numero": 591829,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 26.79,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto G",
+                "valor": 210.55,
+                "quantidade": 9
+            }
+        ]
+    },
+    {
+        "data_emissao": "22/05/2024",
+        "hora_emissao": "09:07",
+        "numero": 224048,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 351.3,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto D",
+                "valor": 42.17,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto J",
+                "valor": 269.3,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto G",
+                "valor": 405.66,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "11/08/2024",
+        "hora_emissao": "17:42",
+        "numero": 239428,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 245.5,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto C",
+                "valor": 379.71,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "14/01/2025",
+        "hora_emissao": "01:53",
+        "numero": 297110,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto E",
+                "valor": 135.44,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto C",
+                "valor": 419.77,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "05/04/2024",
+        "hora_emissao": "08:03",
+        "numero": 800886,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 252.43,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto G",
+                "valor": 262.8,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto E",
+                "valor": 417.39,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto B",
+                "valor": 229.99,
+                "quantidade": 9
+            }
+        ]
+    },
+    {
+        "data_emissao": "26/01/2024",
+        "hora_emissao": "08:26",
+        "numero": 120537,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 281.21,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto G",
+                "valor": 411.87,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto J",
+                "valor": 314.3,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto D",
+                "valor": 328.44,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "31/01/2024",
+        "hora_emissao": "06:36",
+        "numero": 939782,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 443.96,
+                "quantidade": 7
+            }
+        ]
+    },
+    {
+        "data_emissao": "14/01/2024",
+        "hora_emissao": "00:49",
+        "numero": 554380,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto E",
+                "valor": 268.71,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto H",
+                "valor": 406.34,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "06/12/2024",
+        "hora_emissao": "00:55",
+        "numero": 398156,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 221.36,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto H",
+                "valor": 27.12,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto E",
+                "valor": 170.37,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto H",
+                "valor": 66.15,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto I",
+                "valor": 102.07,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "21/02/2025",
+        "hora_emissao": "19:36",
+        "numero": 616280,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 367.05,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "26/07/2024",
+        "hora_emissao": "21:59",
+        "numero": 245941,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto D",
+                "valor": 202.84,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto H",
+                "valor": 434.91,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto H",
+                "valor": 375.44,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "18/09/2024",
+        "hora_emissao": "15:50",
+        "numero": 951967,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto D",
+                "valor": 204.88,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto I",
+                "valor": 151.64,
+                "quantidade": 8
+            }
+        ]
+    },
+    {
+        "data_emissao": "03/02/2024",
+        "hora_emissao": "06:13",
+        "numero": 809121,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 75.68,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto C",
+                "valor": 108.88,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto C",
+                "valor": 151.66,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto G",
+                "valor": 185.09,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto I",
+                "valor": 293.07,
+                "quantidade": 2
+            }
+        ]
+    },
+    {
+        "data_emissao": "08/01/2024",
+        "hora_emissao": "21:17",
+        "numero": 914639,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto B",
+                "valor": 484.47,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto F",
+                "valor": 396.0,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto A",
+                "valor": 91.44,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto C",
+                "valor": 180.98,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "14/03/2024",
+        "hora_emissao": "07:26",
+        "numero": 505187,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 465.3,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto H",
+                "valor": 104.13,
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "data_emissao": "26/02/2025",
+        "hora_emissao": "07:23",
+        "numero": 598801,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 390.62,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto D",
+                "valor": 19.49,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto J",
+                "valor": 161.38,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto B",
+                "valor": 250.48,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto I",
+                "valor": 401.05,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "06/04/2024",
+        "hora_emissao": "05:08",
+        "numero": 259399,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 252.19,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto A",
+                "valor": 434.59,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto J",
+                "valor": 241.74,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto H",
+                "valor": 350.29,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto B",
+                "valor": 447.28,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "01/12/2024",
+        "hora_emissao": "11:58",
+        "numero": 424908,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto D",
+                "valor": 17.55,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto F",
+                "valor": 251.59,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto H",
+                "valor": 158.83,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto B",
+                "valor": 374.4,
+                "quantidade": 7
+            }
+        ]
+    },
+    {
+        "data_emissao": "07/01/2025",
+        "hora_emissao": "23:20",
+        "numero": 129230,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto B",
+                "valor": 185.78,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto A",
+                "valor": 87.19,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto F",
+                "valor": 357.69,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto C",
+                "valor": 433.22,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto E",
+                "valor": 133.69,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "01/02/2025",
+        "hora_emissao": "02:30",
+        "numero": 748228,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto J",
+                "valor": 466.8,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto H",
+                "valor": 83.44,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto D",
+                "valor": 270.26,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto D",
+                "valor": 102.96,
+                "quantidade": 7
+            }
+        ]
+    },
+    {
+        "data_emissao": "25/01/2025",
+        "hora_emissao": "02:41",
+        "numero": 280684,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto I",
+                "valor": 280.19,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "11/12/2024",
+        "hora_emissao": "18:29",
+        "numero": 354294,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 101.74,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto F",
+                "valor": 223.91,
+                "quantidade": 10
+            }
+        ]
+    },
+    {
+        "data_emissao": "20/05/2024",
+        "hora_emissao": "14:41",
+        "numero": 974631,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto D",
+                "valor": 255.06,
+                "quantidade": 8
+            }
+        ]
+    },
+    {
+        "data_emissao": "10/07/2024",
+        "hora_emissao": "12:48",
+        "numero": 127247,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto E",
+                "valor": 175.62,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto B",
+                "valor": 75.7,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto B",
+                "valor": 17.77,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "12/11/2024",
+        "hora_emissao": "15:36",
+        "numero": 166476,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto J",
+                "valor": 485.65,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "26/10/2024",
+        "hora_emissao": "10:03",
+        "numero": 731341,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto B",
+                "valor": 12.5,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto J",
+                "valor": 213.51,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto D",
+                "valor": 362.4,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto E",
+                "valor": 178.13,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto I",
+                "valor": 412.27,
+                "quantidade": 10
+            }
+        ]
+    },
+    {
+        "data_emissao": "20/10/2024",
+        "hora_emissao": "21:04",
+        "numero": 676227,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 429.15,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto C",
+                "valor": 89.92,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto A",
+                "valor": 93.87,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "05/03/2025",
+        "hora_emissao": "03:42",
+        "numero": 763560,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto I",
+                "valor": 42.73,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto H",
+                "valor": 134.2,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto A",
+                "valor": 268.99,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto J",
+                "valor": 403.31,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto J",
+                "valor": 210.3,
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "data_emissao": "06/06/2024",
+        "hora_emissao": "22:24",
+        "numero": 860377,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 111.05,
+                "quantidade": 9
+            }
+        ]
+    },
+    {
+        "data_emissao": "29/04/2024",
+        "hora_emissao": "22:21",
+        "numero": 364798,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 285.9,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "30/12/2024",
+        "hora_emissao": "18:03",
+        "numero": 942326,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 302.97,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto E",
+                "valor": 348.13,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto E",
+                "valor": 276.61,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "15/02/2025",
+        "hora_emissao": "00:10",
+        "numero": 847798,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 97.43,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto E",
+                "valor": 143.92,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto F",
+                "valor": 437.46,
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "data_emissao": "28/11/2024",
+        "hora_emissao": "04:34",
+        "numero": 529071,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 343.79,
+                "quantidade": 8
+            }
+        ]
+    },
+    {
+        "data_emissao": "06/07/2024",
+        "hora_emissao": "15:25",
+        "numero": 285102,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto J",
+                "valor": 111.16,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto B",
+                "valor": 193.02,
+                "quantidade": 2
+            }
+        ]
+    },
+    {
+        "data_emissao": "18/04/2024",
+        "hora_emissao": "20:08",
+        "numero": 457595,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto B",
+                "valor": 249.58,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto F",
+                "valor": 482.73,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto H",
+                "valor": 389.37,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto B",
+                "valor": 293.1,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "21/08/2024",
+        "hora_emissao": "23:30",
+        "numero": 967968,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 485.29,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto B",
+                "valor": 404.71,
+                "quantidade": 6
+            }
+        ]
+    },
+    {
+        "data_emissao": "13/08/2024",
+        "hora_emissao": "11:23",
+        "numero": 137668,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 347.15,
+                "quantidade": 8
+            }
+        ]
+    },
+    {
+        "data_emissao": "09/10/2024",
+        "hora_emissao": "20:30",
+        "numero": 833008,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto I",
+                "valor": 442.07,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto I",
+                "valor": 246.31,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto B",
+                "valor": 496.96,
+                "quantidade": 6
+            }
+        ]
+    },
+    {
+        "data_emissao": "07/01/2025",
+        "hora_emissao": "03:28",
+        "numero": 864349,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 362.48,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto E",
+                "valor": 286.46,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto D",
+                "valor": 115.5,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto G",
+                "valor": 353.39,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto F",
+                "valor": 363.46,
+                "quantidade": 10
+            }
+        ]
+    },
+    {
+        "data_emissao": "18/12/2024",
+        "hora_emissao": "12:30",
+        "numero": 764050,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto J",
+                "valor": 233.59,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto E",
+                "valor": 99.27,
+                "quantidade": 9
+            }
+        ]
+    },
+    {
+        "data_emissao": "03/01/2024",
+        "hora_emissao": "06:31",
+        "numero": 468347,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 35.06,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto A",
+                "valor": 180.09,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto G",
+                "valor": 330.04,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto G",
+                "valor": 31.39,
+                "quantidade": 10
+            }
+        ]
+    },
+    {
+        "data_emissao": "17/05/2024",
+        "hora_emissao": "06:49",
+        "numero": 924912,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto I",
+                "valor": 105.34,
+                "quantidade": 2
+            }
+        ]
+    },
+    {
+        "data_emissao": "01/06/2024",
+        "hora_emissao": "13:50",
+        "numero": 374660,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 64.34,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto B",
+                "valor": 475.54,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto C",
+                "valor": 254.36,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto C",
+                "valor": 248.36,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "04/03/2024",
+        "hora_emissao": "06:17",
+        "numero": 652034,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 262.23,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto A",
+                "valor": 414.21,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto B",
+                "valor": 196.28,
+                "quantidade": 2
+            }
+        ]
+    },
+    {
+        "data_emissao": "05/12/2024",
+        "hora_emissao": "11:09",
+        "numero": 245046,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 297.07,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto I",
+                "valor": 110.94,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto C",
+                "valor": 390.19,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto B",
+                "valor": 62.5,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto D",
+                "valor": 365.15,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "11/09/2024",
+        "hora_emissao": "04:03",
+        "numero": 967108,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 13.07,
+                "quantidade": 6
+            }
+        ]
+    },
+    {
+        "data_emissao": "18/07/2024",
+        "hora_emissao": "11:40",
+        "numero": 527047,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 366.74,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto B",
+                "valor": 256.94,
+                "quantidade": 9
+            }
+        ]
+    },
+    {
+        "data_emissao": "07/01/2024",
+        "hora_emissao": "06:43",
+        "numero": 658331,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto J",
+                "valor": 434.01,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto D",
+                "valor": 319.46,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto C",
+                "valor": 181.69,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "21/02/2024",
+        "hora_emissao": "22:19",
+        "numero": 917229,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 318.12,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto B",
+                "valor": 335.09,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto J",
+                "valor": 411.79,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto I",
+                "valor": 32.29,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "11/01/2024",
+        "hora_emissao": "09:44",
+        "numero": 916311,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 113.75,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto J",
+                "valor": 395.41,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto J",
+                "valor": 46.21,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto J",
+                "valor": 333.01,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "21/11/2024",
+        "hora_emissao": "19:48",
+        "numero": 817892,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 114.56,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto C",
+                "valor": 63.7,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto E",
+                "valor": 451.04,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto F",
+                "valor": 97.81,
+                "quantidade": 6
+            }
+        ]
+    },
+    {
+        "data_emissao": "03/03/2024",
+        "hora_emissao": "12:32",
+        "numero": 709284,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 312.97,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto J",
+                "valor": 293.49,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto D",
+                "valor": 106.93,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto G",
+                "valor": 161.01,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto B",
+                "valor": 109.71,
+                "quantidade": 9
+            }
+        ]
+    },
+    {
+        "data_emissao": "15/05/2024",
+        "hora_emissao": "04:45",
+        "numero": 178767,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 176.84,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto G",
+                "valor": 167.6,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto I",
+                "valor": 380.42,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "18/02/2025",
+        "hora_emissao": "22:43",
+        "numero": 609002,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 265.4,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto D",
+                "valor": 61.11,
+                "quantidade": 6
+            }
+        ]
+    },
+    {
+        "data_emissao": "15/02/2024",
+        "hora_emissao": "02:33",
+        "numero": 986033,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto D",
+                "valor": 161.95,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto F",
+                "valor": 117.51,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto C",
+                "valor": 195.59,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto D",
+                "valor": 294.15,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto C",
+                "valor": 196.71,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "01/01/2024",
+        "hora_emissao": "00:08",
+        "numero": 289541,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 451.53,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto A",
+                "valor": 88.64,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto A",
+                "valor": 379.86,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto D",
+                "valor": 415.23,
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "data_emissao": "07/04/2024",
+        "hora_emissao": "06:06",
+        "numero": 839450,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 213.4,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto C",
+                "valor": 61.11,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto E",
+                "valor": 226.15,
+                "quantidade": 2
+            }
+        ]
+    },
+    {
+        "data_emissao": "20/01/2025",
+        "hora_emissao": "23:50",
+        "numero": 312429,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto B",
+                "valor": 245.67,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto I",
+                "valor": 176.16,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "08/05/2024",
+        "hora_emissao": "19:46",
+        "numero": 272131,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 471.06,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "23/10/2024",
+        "hora_emissao": "04:04",
+        "numero": 763803,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto I",
+                "valor": 465.36,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto F",
+                "valor": 435.65,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto I",
+                "valor": 392.72,
+                "quantidade": 9
+            }
+        ]
+    },
+    {
+        "data_emissao": "07/11/2024",
+        "hora_emissao": "06:32",
+        "numero": 337040,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 124.32,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "14/09/2024",
+        "hora_emissao": "08:26",
+        "numero": 742013,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 395.87,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto H",
+                "valor": 405.72,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto I",
+                "valor": 15.11,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto E",
+                "valor": 378.64,
+                "quantidade": 7
+            }
+        ]
+    },
+    {
+        "data_emissao": "27/02/2025",
+        "hora_emissao": "15:20",
+        "numero": 879830,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 124.96,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto D",
+                "valor": 279.62,
+                "quantidade": 10
+            }
+        ]
+    },
+    {
+        "data_emissao": "07/05/2024",
+        "hora_emissao": "08:35",
+        "numero": 763600,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 459.24,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto D",
+                "valor": 294.73,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto D",
+                "valor": 233.86,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto C",
+                "valor": 202.29,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "02/02/2025",
+        "hora_emissao": "03:16",
+        "numero": 845813,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto D",
+                "valor": 398.0,
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "data_emissao": "29/03/2024",
+        "hora_emissao": "21:39",
+        "numero": 368471,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto E",
+                "valor": 239.97,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto D",
+                "valor": 282.38,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto C",
+                "valor": 304.15,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto H",
+                "valor": 470.09,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto A",
+                "valor": 364.85,
+                "quantidade": 3
+            }
+        ]
+    },
+    {
+        "data_emissao": "12/04/2024",
+        "hora_emissao": "21:37",
+        "numero": 659081,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto E",
+                "valor": 179.15,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto D",
+                "valor": 280.05,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto J",
+                "valor": 455.29,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto A",
+                "valor": 142.05,
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "data_emissao": "15/12/2024",
+        "hora_emissao": "10:09",
+        "numero": 952056,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto D",
+                "valor": 90.82,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto E",
+                "valor": 98.54,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "21/01/2025",
+        "hora_emissao": "01:42",
+        "numero": 297591,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto E",
+                "valor": 139.31,
+                "quantidade": 7
+            }
+        ]
+    },
+    {
+        "data_emissao": "20/09/2024",
+        "hora_emissao": "11:51",
+        "numero": 781225,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto J",
+                "valor": 402.34,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto E",
+                "valor": 329.87,
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "data_emissao": "06/10/2024",
+        "hora_emissao": "20:25",
+        "numero": 590297,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 346.42,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto A",
+                "valor": 357.99,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto E",
+                "valor": 130.99,
+                "quantidade": 6
+            }
+        ]
+    },
+    {
+        "data_emissao": "18/02/2025",
+        "hora_emissao": "03:37",
+        "numero": 212040,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto D",
+                "valor": 337.95,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto G",
+                "valor": 433.86,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto A",
+                "valor": 170.23,
+                "quantidade": 8
+            },
+            {
+                "nome": "Produto F",
+                "valor": 20.74,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto E",
+                "valor": 350.6,
+                "quantidade": 7
+            }
+        ]
+    },
+    {
+        "data_emissao": "24/07/2024",
+        "hora_emissao": "08:36",
+        "numero": 358884,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto J",
+                "valor": 50.82,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto D",
+                "valor": 97.25,
+                "quantidade": 10
+            }
+        ]
+    },
+    {
+        "data_emissao": "26/08/2024",
+        "hora_emissao": "21:56",
+        "numero": 275198,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 338.63,
+                "quantidade": 9
+            }
+        ]
+    },
+    {
+        "data_emissao": "11/10/2024",
+        "hora_emissao": "07:07",
+        "numero": 977836,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 296.69,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto E",
+                "valor": 56.09,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto E",
+                "valor": 33.53,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto G",
+                "valor": 158.34,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "13/02/2025",
+        "hora_emissao": "23:39",
+        "numero": 842591,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 63.52,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto B",
+                "valor": 359.17,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto G",
+                "valor": 283.15,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto B",
+                "valor": 196.63,
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "data_emissao": "05/09/2024",
+        "hora_emissao": "03:52",
+        "numero": 997929,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto I",
+                "valor": 424.6,
+                "quantidade": 2
+            }
+        ]
+    },
+    {
+        "data_emissao": "08/06/2024",
+        "hora_emissao": "03:05",
+        "numero": 969118,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto E",
+                "valor": 80.61,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto B",
+                "valor": 410.17,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto H",
+                "valor": 111.33,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto E",
+                "valor": 130.96,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto B",
+                "valor": 110.38,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "20/04/2024",
+        "hora_emissao": "17:05",
+        "numero": 905354,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 209.38,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto B",
+                "valor": 301.62,
+                "quantidade": 6
+            }
+        ]
+    },
+    {
+        "data_emissao": "09/03/2024",
+        "hora_emissao": "13:32",
+        "numero": 149219,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 323.33,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "03/04/2024",
+        "hora_emissao": "02:49",
+        "numero": 120868,
+        "serie": 5,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 41.95,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto B",
+                "valor": 413.1,
+                "quantidade": 10
+            }
+        ]
+    },
+    {
+        "data_emissao": "27/02/2025",
+        "hora_emissao": "01:47",
+        "numero": 656381,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto B",
+                "valor": 474.7,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto J",
+                "valor": 355.39,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto D",
+                "valor": 259.26,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto E",
+                "valor": 323.9,
+                "quantidade": 10
+            }
+        ]
+    },
+    {
+        "data_emissao": "19/04/2024",
+        "hora_emissao": "00:29",
+        "numero": 977517,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto E",
+                "valor": 241.6,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto H",
+                "valor": 258.44,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto B",
+                "valor": 322.77,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto C",
+                "valor": 431.17,
+                "quantidade": 7
+            }
+        ]
+    },
+    {
+        "data_emissao": "24/08/2024",
+        "hora_emissao": "15:02",
+        "numero": 429128,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto J",
+                "valor": 69.73,
+                "quantidade": 10
+            },
+            {
+                "nome": "Produto C",
+                "valor": 381.27,
+                "quantidade": 7
+            }
+        ]
+    },
+    {
+        "data_emissao": "15/08/2024",
+        "hora_emissao": "20:51",
+        "numero": 330287,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 129.94,
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "data_emissao": "01/03/2024",
+        "hora_emissao": "01:30",
+        "numero": 879616,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto G",
+                "valor": 129.79,
+                "quantidade": 7
+            }
+        ]
+    },
+    {
+        "data_emissao": "15/02/2025",
+        "hora_emissao": "17:57",
+        "numero": 833217,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 249.63,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto A",
+                "valor": 82.38,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto J",
+                "valor": 289.82,
+                "quantidade": 8
+            }
+        ]
+    },
+    {
+        "data_emissao": "30/05/2024",
+        "hora_emissao": "20:02",
+        "numero": 910346,
+        "serie": 2,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 211.39,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto G",
+                "valor": 54.28,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto E",
+                "valor": 245.29,
+                "quantidade": 10
+            }
+        ]
+    },
+    {
+        "data_emissao": "07/04/2024",
+        "hora_emissao": "21:14",
+        "numero": 900160,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto E",
+                "valor": 148.27,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto B",
+                "valor": 316.81,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto G",
+                "valor": 19.03,
+                "quantidade": 3
+            },
+            {
+                "nome": "Produto F",
+                "valor": 129.78,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto J",
+                "valor": 284.5,
+                "quantidade": 4
+            }
+        ]
+    },
+    {
+        "data_emissao": "23/12/2024",
+        "hora_emissao": "10:13",
+        "numero": 279086,
+        "serie": 3,
+        "produtos": [
+            {
+                "nome": "Produto H",
+                "valor": 480.22,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto I",
+                "valor": 151.08,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto B",
+                "valor": 167.73,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto F",
+                "valor": 264.5,
+                "quantidade": 9
+            },
+            {
+                "nome": "Produto E",
+                "valor": 404.67,
+                "quantidade": 2
+            }
+        ]
+    },
+    {
+        "data_emissao": "19/02/2024",
+        "hora_emissao": "10:10",
+        "numero": 545317,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto A",
+                "valor": 79.27,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto I",
+                "valor": 11.4,
+                "quantidade": 1
+            },
+            {
+                "nome": "Produto F",
+                "valor": 55.37,
+                "quantidade": 2
+            },
+            {
+                "nome": "Produto F",
+                "valor": 406.35,
+                "quantidade": 8
+            }
+        ]
+    },
+    {
+        "data_emissao": "03/03/2024",
+        "hora_emissao": "23:13",
+        "numero": 863354,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto F",
+                "valor": 115.67,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto A",
+                "valor": 111.92,
+                "quantidade": 7
+            },
+            {
+                "nome": "Produto A",
+                "valor": 151.8,
+                "quantidade": 6
+            },
+            {
+                "nome": "Produto H",
+                "valor": 146.08,
+                "quantidade": 8
+            }
+        ]
+    },
+    {
+        "data_emissao": "07/12/2024",
+        "hora_emissao": "09:44",
+        "numero": 528812,
+        "serie": 4,
+        "produtos": [
+            {
+                "nome": "Produto D",
+                "valor": 440.81,
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "data_emissao": "27/05/2024",
+        "hora_emissao": "23:11",
+        "numero": 621373,
+        "serie": 1,
+        "produtos": [
+            {
+                "nome": "Produto C",
+                "valor": 390.53,
+                "quantidade": 4
+            },
+            {
+                "nome": "Produto H",
+                "valor": 370.42,
+                "quantidade": 5
+            },
+            {
+                "nome": "Produto H",
+                "valor": 300.68,
+                "quantidade": 8
+            }
+        ]
+    }
+]

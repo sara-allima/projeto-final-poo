@@ -1,0 +1,18 @@
+{
+    "data_emissao": "07/03/2025",
+    "hora_emissao": "16:45",
+    "numero": 123458,
+    "serie": 2,
+    "produtos": [
+        {
+            "nome": "Produto E",
+            "valor": 120.00,
+            "quantidade": 2
+        },
+        {
+            "nome": "Produto F",
+            "valor": 90.00,
+            "quantidade": 5
+        }
+    ]
+}

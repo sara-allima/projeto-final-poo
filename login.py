@@ -5,7 +5,7 @@ class Login:
         self.__email = email
         self.__senha = senha
 
-    def validar_usuario(self, arquivo="cadastros.json"):
+    def validar_usuario(self, arquivo="cadastro/cadastros.json"):
         """Verifica se o e-mail e senha existem no arquivo JSON."""
         try:
             with open(arquivo, "r", encoding="utf-8") as f:

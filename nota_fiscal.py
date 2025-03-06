@@ -40,12 +40,12 @@ def adicionar_nota_manual():
     compras.append(nota_fiscal)
 
     # Salvar as compras de volta no arquivo JSON
-    with open("notas_fiscais.json", "w", encoding="utf-8") as f:
+    with open("notas fiscais/notas_fiscais.json", "w", encoding="utf-8") as f:
         json.dump(compras, f, ensure_ascii=False, indent=4)
 
     print("Nota fiscal adicionada com sucesso!\n")
 
-def carregar_compras(arquivo="notas_fiscais.json"):
+def carregar_compras(arquivo="notas fiscais/notas_fiscais.json"):
     """Carregar as compras do arquivo JSON."""
     try:
         with open(arquivo, "r", encoding="utf-8") as f:

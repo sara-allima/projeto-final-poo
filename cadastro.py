@@ -19,10 +19,10 @@ class Cadastro:
             "data_nascimento": self.__data_nascimento,
             "local_residencia": self.__local_residencia,
             "num_telefone": self.__num_telefone,
-            "email": self.__email  # Adicionando o e-mail ao dicionário
+            "email": self.__email 
         }
 
-    def salvar_em_json(self, arquivo="cadastros.json"):
+    def salvar_em_json(self, arquivo="cadastro/cadastros.json/"):
         """Salva os dados do usuário em um arquivo JSON."""
         try:
             with open(arquivo, "r", encoding="utf-8") as f:
@@ -37,7 +37,7 @@ class Cadastro:
             json.dump(cadastros, f, indent=4, ensure_ascii=False)
 
     @staticmethod
-    def carregar_cadastros(arquivo="cadastros.json"):
+    def carregar_cadastros(arquivo="cadastro/cadastros.json/"):
         """Carrega os cadastros existentes do arquivo JSON."""
         try:
             with open(arquivo, "r", encoding="utf-8") as f:
